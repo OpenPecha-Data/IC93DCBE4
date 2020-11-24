@@ -3,5 +3,72 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN471
   title: པཎ་ཆེན་སྐུ་ཕྲེང་རིམ་བྱོན་གྱི་མཛད་རྣམ།
-  volume: ''
+  volume:
+    5fa56cd034f648a6adeaf93c02223f29:
+      image_group_id: I3CN7136
+      title: Volume 1 of paN chen sku phreng rim byon gyi rnam thar/
+      volume_number: 1
+      total_pages: 338
+    2a3f3ae883a742cc99762d6109a25509:
+      image_group_id: I3CN7137
+      title: Volume 2 of paN chen sku phreng rim byon gyi rnam thar/
+      volume_number: 2
+      total_pages: 412
+    571ba33de2414e3eadcbec1dd1a89cec:
+      image_group_id: I3CN7138
+      title: Volume 3 of paN chen sku phreng rim byon gyi rnam thar/
+      volume_number: 3
+      total_pages: 580
+    f727dc2f44b04e2fa256a3c56a04b0c8:
+      image_group_id: I3CN7139
+      title: Volume 4 of paN chen sku phreng rim byon gyi rnam thar/
+      volume_number: 4
+      total_pages: 444
+    332d3dced48249ebad2369cc0d0bdba3:
+      image_group_id: I3CN7140
+      title: Volume 5 of paN chen sku phreng rim byon gyi rnam thar/
+      volume_number: 5
+      total_pages: 432
+    efabe8f2736946afb2623483e533b868:
+      image_group_id: I3CN7141
+      title: Volume 6 of paN chen sku phreng rim byon gyi rnam thar/
+      volume_number: 6
+      total_pages: 438
+    e85b84e8343846e0b1fcac8422eca222:
+      image_group_id: I3CN7142
+      title: Volume 7 of paN chen sku phreng rim byon gyi rnam thar/
+      volume_number: 7
+      total_pages: 479
+    5052f1d63e73477c811bd2af433992a5:
+      image_group_id: I3CN7143
+      title: Volume 8 of paN chen sku phreng rim byon gyi rnam thar/
+      volume_number: 8
+      total_pages: 356
+    b8261bac51044942a68e180cdf390976:
+      image_group_id: I3CN7144
+      title: Volume 9 of paN chen sku phreng rim byon gyi rnam thar/
+      volume_number: 9
+      total_pages: 370
+    095f820972c74524a5bbcc20baa396bd:
+      image_group_id: I3CN7145
+      title: Volume 10 of paN chen sku phreng rim byon gyi rnam thar/
+      volume_number: 10
+      total_pages: 536
+    3456809efb64448baa59c6660800cf4b:
+      image_group_id: I3CN7146
+      title: Volume 11 of paN chen sku phreng rim byon gyi rnam thar/
+      volume_number: 11
+      total_pages: 508
+    4d5b660b7c1e430a8b344ddbc8c2dd97:
+      image_group_id: I3CN7147
+      title: Volume 12 of paN chen sku phreng rim byon gyi rnam thar/
+      volume_number: 12
+      total_pages: 566
   author: ''
+ebook_metadata:
+  title: པཎ་ཆེན་སྐུ་ཕྲེང་རིམ་བྱོན་གྱི་མཛད་རྣམ།
+  author: ''
+  sku: P000485
+  cover: cover.jpg
+  layers:
+  - pagination
